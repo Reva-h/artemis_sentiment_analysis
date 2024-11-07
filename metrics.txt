@@ -1,0 +1,8 @@
+     Subreddit  numPosts  numComments
+ArtemisProgram       927        11604
+          nasa       234        10716
+         space       237        49859
+------------------------------------------
+Total               1398        72179
+------------------------------------------
+total data points: 73577
